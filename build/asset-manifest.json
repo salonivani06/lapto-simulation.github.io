@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mini-Laptop/static/css/main.6c838bbd.css",
+    "main.js": "/Mini-Laptop/static/js/main.b9e71c6f.js",
+    "static/media/wallpaper.jpg": "/Mini-Laptop/static/media/wallpaper.a7370aa2d081f25d2bd5.jpg",
+    "static/media/hp_Logo.png": "/Mini-Laptop/static/media/hp_Logo.2c61005ac0d76eefa795.png",
+    "static/media/coverBlur.jpg": "/Mini-Laptop/static/media/coverBlur.4382532e1c94bea4ff5a.jpg",
+    "static/media/cover.jpg": "/Mini-Laptop/static/media/cover.36c0bb02038565e08f97.jpg",
+    "static/media/celebrate.jpg": "/Mini-Laptop/static/media/celebrate.c661c892f50f4012c39b.jpg",
+    "static/media/desktop.JPG": "/Mini-Laptop/static/media/desktop.6eb24f1f6a90b414b325.JPG",
+    "static/media/Profile.png": "/Mini-Laptop/static/media/Profile.33e44432bbee4b4bfa0b.png",
+    "static/media/webcam.png": "/Mini-Laptop/static/media/webcam.18efcd4c77bda70a474e.png",
+    "static/media/taskbar.png": "/Mini-Laptop/static/media/taskbar.0d047ef92f7958f852fb.png",
+    "index.html": "/Mini-Laptop/index.html",
+    "main.6c838bbd.css.map": "/Mini-Laptop/static/css/main.6c838bbd.css.map",
+    "main.b9e71c6f.js.map": "/Mini-Laptop/static/js/main.b9e71c6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c838bbd.css",
+    "static/js/main.b9e71c6f.js"
+  ]
+}
